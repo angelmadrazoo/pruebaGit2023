@@ -15,8 +15,8 @@
 7.git branch develop
 8.git branch feature/ticket220 + cehckout
 9.REFLEJAR PASOS 6-9
-10.
-11.
+10.git stash
+11.REFLEJAR PASO 14
 12.
 13.
 14.
