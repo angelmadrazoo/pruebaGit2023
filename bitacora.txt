@@ -5,40 +5,38 @@
 %%==================================================================%%
 
  Paso   Acción                       Notas
-====== ============================ ================================
-1.git clone
-2.editar fichero
-3.git add + commit
-4.git push
-5.REFLEJAR PASOS 1-4
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36
+
+git clone
+editar fichero
+git add + commit
+git push
+REFLEJAR PASOS 1-4
+git add + git commit
+git branch develop
+git branch feature/ticket220 + cehckout
+REFLEJAR PASOS 6-9
+git add + commit
+checkout develop
+branch feature/Ticket221 + checkout
+REFLEJAR 10-12
+git stash
+REFLEJAR PASO 14
+add + commit
+checkout feature/Ticket221
+git stash apply
+REFLEJAR 16-17
+git add + commit
+checkout develop
+branch feature/Ticket222
+checkout feature/Ticket220 seria FAST-FORWARD
+add + commit
+checkout develop
+git merge feature/Ticket220
+git merge feature/Ticket221
+REFELJAR 24-27
+add +commit
+git push origin develop
+checkout feature/ticket222
+checkout deveop -- bitacora.txt
+REFLEJAR 29-33
+
