@@ -5,7 +5,7 @@
 %%==================================================================%%
 
  Paso   Acción                       Notas
-====== ============================ ================================
+
 git clone
 editar fichero
 git add + commit
@@ -15,8 +15,16 @@ git add + git commit
 git branch develop
 git branch feature/ticket220 + cehckout
 REFLEJAR PASOS 6-9
+git add + commit
+checkout develop
+branch feature/Ticket221 + checkout
+REFLEJAR 10-12
 git stash
 REFLEJAR PASO 14
+add + commit
+checkout feature/Ticket221
+git stash apply
+REFLEJAR 16-17
 git add + commit
 checkout develop
 branch feature/Ticket222
