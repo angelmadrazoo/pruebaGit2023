@@ -29,3 +29,8 @@ git add + commit
 checkout develop
 branch feature/Ticket222
 checkout feature/Ticket220 seria FAST-FORWARD
+add + commit
+checkout develop
+git merge feature/Ticket220
+git merge feature/Ticket221
+REFELJAR 24-27
