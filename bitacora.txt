@@ -34,3 +34,9 @@ checkout develop
 git merge feature/Ticket220
 git merge feature/Ticket221
 REFELJAR 24-27
+add +commit
+git push origin develop
+checkout feature/ticket222
+checkout deveop -- bitacora.txt
+REFLEJAR 29-33
+
