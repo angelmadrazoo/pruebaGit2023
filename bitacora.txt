@@ -11,10 +11,10 @@
 3.git add + commit
 4.git push
 5.REFLEJAR PASOS 1-4
-6.
-7.
-8.
-9.
+6.git add + git commit
+7.git branch develop
+8.git branch feature/ticket220 + cehckout
+9.REFLEJAR PASOS 6-9
 10.
 11.
 12.
