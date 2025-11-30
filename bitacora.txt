@@ -6,39 +6,18 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-1.git clone
-2.editar fichero
-3.git add + commit
-4.git push
-5.REFLEJAR PASOS 1-4
-6.git add + git commit
-7.git branch develop
-8.git branch feature/ticket220 + cehckout
-9.REFLEJAR PASOS 6-9
-10.git stash
-11.REFLEJAR PASO 14
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36
+git clone
+editar fichero
+git add + commit
+git push
+REFLEJAR PASOS 1-4
+git add + git commit
+git branch develop
+git branch feature/ticket220 + cehckout
+REFLEJAR PASOS 6-9
+git stash
+REFLEJAR PASO 14
+git add + commit
+checkout develop
+branch feature/Ticket222
+checkout feature/Ticket220 seria FAST-FORWARD
